@@ -11,11 +11,12 @@ public class BasicSwitch {
                 System.out.println("seven");
                 break;
             case 10:
-                System.out.println("ten");
+                System.out.println("default");
                 break;
             case 20:
-                System.out.println("twenty");
+                System.out.println("default");
                 break;
+
         }
     }
 }
